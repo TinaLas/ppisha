@@ -1,8 +1,9 @@
-urangutan
-penguin
-whale
-grasshopper
-
-
 butterfly
 ant
+urangutan blue
+penguin white
+whale pink
+grasshopper green
+tiger yellow
+rabbit red
+rabbitrabbit purple
