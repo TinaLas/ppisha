@@ -1,7 +1,7 @@
-urangutan
-penguin
-whale
-grasshopper
-tiger
-rabbit
-rabbitrabbit
+urangutan blue
+penguin white
+whale pink
+grasshopper green
+tiger yellow
+rabbit red
+rabbitrabbit purple
