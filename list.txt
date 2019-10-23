@@ -2,3 +2,6 @@ urangutan
 penguin
 whale
 grasshopper
+tiger
+rabbit
+
